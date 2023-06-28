@@ -6,7 +6,7 @@
 <details>
  <summary>- ⚡ Fun Fact:</summary>
 
- ...If you have a frown, lets try and turnip upside down, The heaviest turnip weighed 17.7 kg (39 lb 3 oz) and was grown by Scott and Mardie Robb (both USA) and in Roman times, the turnip was the object of choice to hurl at unpopular public figures ! There is a spanish festival where there is no greater honour than to represent the Jarrampla in a coat of armour and colourful material (who resembles an unpopular old cattle farmer being driven out of the village for stealing)
+ ...If you have a frown, lets try and turnip upside down, The heaviest turnip weighed 17.7 kg (39 lb 3 oz) and was grown by Scott and Mardie Robb (both USA) and in Roman times, the turnip was the object of choice to hurl at unpopular public figures ! There is a spanish festival where there is no greater honour than to represent the Jarrampla in a coat of armour and colourful material (who resembles an unpopular old cattle farmer being driven out of the village for rustling cattle)
 ![Jarramplas festival in spain !](https://github.com/GrumpyTurnip/GrumpyTurnip/blob/main/jarramplas.jpeg)
 
 </details>
